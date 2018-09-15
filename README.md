@@ -57,16 +57,14 @@
 				<div class="col-md-6">
 					<article>
 						<h3>Воодушевлённый визажист</h2>
-						<li> <a href="https://www.instagram.com/orestan.mua/">Мои работы можно посмотреть тут:</a> </li>
+						<li> <a href="https://www.instagram.com/orestan.mua/">Мои работы можно посмотреть тут</a> </li>
 					
 					</article>
 				</div>
 				<div class="col-md-3">
 					<h3>Я в соцсетях</h3>
 					<ul>
-						<li>VK</li>
 						<li>Facebook</li>
-						<li>Twitter</li>
 						<li>Instagram</li>
 					</ul>
 				</div>
