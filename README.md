@@ -33,7 +33,7 @@
 						<p><i>задорный лис</i></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://github.com/Xtimonova/webpage/blob/master/Xenia.jpg" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+        	            <img src="https://www.instagram.com/p/BnRHZyGnxDS/?utm_source=ig_web_copy_link" alt="">
 					</div>
 	            </div>
 			</div>
