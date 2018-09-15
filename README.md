@@ -64,8 +64,8 @@
 				<div class="col-md-3">
 					<h3>Я в соцсетях</h3>
 					<ul>
-						<li>Facebook</li>
-						<li>Instagram</li>
+					    <li> <a href=https://www.facebook.com/profile.php?id=100009672103669">Facebook</a> </li> 
+						<li> <a href=https://www.instagram.com/orestan/">Instagram</a> </li> 
 					</ul>
 				</div>
 			</div>
