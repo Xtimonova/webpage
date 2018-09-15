@@ -57,7 +57,7 @@
 				<div class="col-md-6">
 					<article>
 						<h3>Воодушевлённый визажист</h2>
-						<li> <a href="https://www.instagram.com/orestan.mua/">Мои работы можно посмотреть тут:</a> </li>
+						<li> <a href="https://www.instagram.com/orestan.mua/">мои работы можно посмотреть тут</a> </li>
 					
 					</article>
 				</div>
