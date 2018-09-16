@@ -23,17 +23,16 @@
 				</nav> 
 			</div>
 		</nav>
-		<header style="background-color:#FE2E64; padding-top:70px; "> 
+		<header style="background-color:#FE2E64; padding-top:100px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
 						<br/><br/>
 						<h1>Ксюша Тимонова</h1>
-						<hr>
 						<p><i>задорный лис</i></p> 
 	                </div>
 					<div class="col-md-4">
-        	           <p><img src="/Xenia.jpg"></p>
+        	           <p><img src="https://github.com/Xtimonova/webpage/blob/gh-pages/IMG_7295.jpg?raw=true" width="500" height="300"></p>
 					</div>
 	            </div>
 			</div>
@@ -43,7 +42,7 @@
 				<div class="col-md-3">
 					<article>
 						<h3>Место учебы</h2>
-						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
+						<p>Фундаментальная и компьютерная лингвистика, НИУ ВШЭ, Москва</p>
 					</article>
 					<article>
 						<h3>Родной город</h2>
