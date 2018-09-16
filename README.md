@@ -32,7 +32,7 @@
 						<p><i>задорный лис</i></p> 
 	                </div>
 					<div class="col-md-4">
-        	           <p><img src="https://github.com/Xtimonova/webpage/blob/gh-pages/IMG_20180903_173112_429.jpg?raw=true"  style="height:3000px; weight:3000px" > </p>
+        	           <p><img src="https://github.com/Xtimonova/webpage/raw/gh-pages/IMG_20180903_173112_429.jpg?raw=true"  style="height:3000px; weight:3000px" > </p>
 					</div>
 	            </div>
 			</div>
