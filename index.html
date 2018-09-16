@@ -28,7 +28,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<br/><br/>
-						<h1>Ксюша Тимонова</h1>
+						<strong>Ксюша Тимонова<strong>
 						<p><i>задорный лис</i></p> 
 	                </div>
 					<div class="col-md-4">
